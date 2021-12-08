@@ -1,2 +1,3 @@
 # MDDC
-떱떱디씨(WWDC)를 공부하는 무뚝뚝씨(MDDC)들의 모임
+
+![image](https://user-images.githubusercontent.com/68391767/145179585-5f990acb-c1b1-4dc5-9415-27fb0d7dfdcc.png)
